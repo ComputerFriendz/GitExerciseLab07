@@ -9,4 +9,3 @@ Pappírspési
 Kalli a þakinu
 Peppa Pig
 Þetta lab suckar ballz
-Þetta er commit sem ég ætla að pusha en reverta svo
